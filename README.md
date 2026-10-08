@@ -48,7 +48,7 @@ telegram-bot/
 
 1. Clonar el repositorio:
 ```bash
-git clone <repository-url>
+git clone https://github.com/nocturne-cybersecurity/telebot
 cd telegram-bot
 ```
 
